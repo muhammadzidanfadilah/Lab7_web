@@ -33,13 +33,16 @@ nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitun
 umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
-![aja9](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/a33c8852-e8ca-424a-9642-440540f5b7c9)
+![aja13](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/fc999f7c-deed-450a-a0d0-5afae5e1e0da)
 
-![aja10](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/fc5f5b6d-5926-4ad6-b191-a1a43366dfe2)
+![aja14](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/87a32e94-acec-48fd-bf50-1a70cc64439f)
 
-![aja11](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/642cb6cf-6c4a-466e-8b99-f6ec4fe31ba7)
+![aja15](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/841db50b-346e-4bb1-a4cc-c5b3b3573260)
 
-![aja12](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/61e06b9a-7b6e-41b6-82be-d3b1c142f22e)
+![aja16](https://github.com/muhammadzidanfadilah/Lab7_web/assets/115553474/fb199ccb-6aef-444c-92d2-65c8145e4918)
+
+
+
 
 
 
